@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_industry" table="x_11084_project_re_project_repository_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agriculture &amp; Forestry/Wildlife</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>807bcced37631300cf3c8cf6c3990e4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Agriculture &amp; Forestry/Wildlife</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business &amp; Information</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>807bcced37631300cf3c8cf6c3990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Business &amp; Information</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Construction/Utilities/Contracting</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>007bcced37631300cf3c8cf6c3990e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>construction/utilities/contracting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Education</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c7bcced37631300cf3c8cf6c3990e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Education</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finance &amp; Insurance</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c7bcced37631300cf3c8cf6c3990e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Finance &amp; Insurance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food &amp; Hospitality</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>887bcced37631300cf3c8cf6c3990e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Food &amp; Hospitality</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gaming</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>087bcced37631300cf3c8cf6c3990e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Gaming</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Health Services</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>847bcced37631300cf3c8cf6c3990e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Health Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Motor Vehicle</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>047bcced37631300cf3c8cf6c3990e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Motor Vehicle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Natural Resources/Environmental</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>807bcced37631300cf3c8cf6c3990e6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Natural Resources/Environmental</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>007bcced37631300cf3c8cf6c3990e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Personal Services</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c7bcced37631300cf3c8cf6c3990e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Personal Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Real Estate &amp; Housing</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c7bcced37631300cf3c8cf6c3990e6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Real Estate &amp; Housing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Safety/Security &amp; Legal</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>887bcced37631300cf3c8cf6c3990e70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Safety/Security &amp; Legal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transportation</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>087bcced37631300cf3c8cf6c3990e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+            <value>Transportation</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_industry</element>
+            <name>x_11084_project_re_project_repository_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:45:37</sys_created_on>
+            <sys_id>4c7bcced37631300cf3c8cf6c3990e65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_industry</sys_name>
+            <sys_package display_value="Project Repository" source="x_11084_project_re">df750ce937631300cf3c8cf6c3990e47</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Repository">df750ce937631300cf3c8cf6c3990e47</sys_scope>
+            <sys_update_name>sys_choice_x_11084_project_re_project_repository_table_u_industry</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:45:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Project Repository Table" language="en" table="x_11084_project_re_project_repository_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Project Repository Table</label>
+            <language>en</language>
+            <name>x_11084_project_re_project_repository_table</name>
+            <plural>Project Repository Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-26 14:19:40</sys_created_on>
+            <sys_id>ff75482d37631300cf3c8cf6c3990e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project Repository Table</sys_name>
+            <sys_package display_value="Project Repository" source="x_11084_project_re">df750ce937631300cf3c8cf6c3990e47</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Repository">df750ce937631300cf3c8cf6c3990e47</sys_scope>
+            <sys_update_name>sys_documentation_x_11084_project_re_project_repository_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-26 14:19:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

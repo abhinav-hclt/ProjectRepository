@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Project Repository Table" max_length="40" name="x_11084_project_re_project_repository_table" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Approver's Count" mandatory="true" max_length="40" name="u_approver_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Name" mandatory="true" max_length="40" name="u_customer_name" type="string"/>
+        <element label="End User Count" mandatory="true" max_length="40" name="u_end_user_count" type="integer"/>
+        <element label="Fulfiller Count" mandatory="true" max_length="40" name="u_fulfiller_count" type="integer"/>
+        <element label="Actual End Date" max_length="40" name="u_glide_date_10" type="glide_date"/>
+        <element label="Proposed Start Date" max_length="40" name="u_glide_date_7" type="glide_date"/>
+        <element label="Actual Start Date" max_length="40" name="u_glide_date_8" type="glide_date"/>
+        <element label="Proposed End Date" max_length="40" name="u_glide_date_9" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Industry" mandatory="true" max_length="40" name="u_industry" type="string">
+            <choice>
+                <element label="Agriculture &amp; Forestry/Wildlife" sequence="0" value="Agriculture &amp; Forestry/Wildlife"/>
+                <element label="Business &amp; Information" sequence="1" value="Business &amp; Information"/>
+                <element label="Construction/Utilities/Contracting" sequence="2" value="construction/utilities/contracting"/>
+                <element label="Education" sequence="3" value="Education"/>
+                <element label="Finance &amp; Insurance" sequence="4" value="Finance &amp; Insurance"/>
+                <element label="Food &amp; Hospitality" sequence="5" value="Food &amp; Hospitality"/>
+                <element label="Gaming" sequence="6" value="Gaming"/>
+                <element label="Health Services" sequence="7" value="Health Services"/>
+                <element label="Motor Vehicle" sequence="8" value="Motor Vehicle"/>
+                <element label="Natural Resources/Environmental" sequence="9" value="Natural Resources/Environmental"/>
+                <element label="Other" sequence="10" value="Other"/>
+                <element label="Personal Services" sequence="11" value="Personal Services"/>
+                <element label="Real Estate &amp; Housing" sequence="12" value="Real Estate &amp; Housing"/>
+                <element label="Safety/Security &amp; Legal" sequence="13" value="Safety/Security &amp; Legal"/>
+                <element label="Transportation" sequence="14" value="Transportation"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Yes" label="Is GBP" mandatory="true" max_length="40" name="u_is_gbp" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Previous ITSM Tool" max_length="40" name="u_previousitsmtool" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="u_status" type="string">
+            <choice>
+                <element label="In Progress" sequence="0" value="in progress"/>
+                <element label="Completed" sequence="1" value="completed"/>
+                <element label="On Hold" sequence="2" value="on hold"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Transition" label="Transition/Transformation" mandatory="true" max_length="40" name="u_transition_transformation" type="string">
+            <choice>
+                <element label="Transition" sequence="0" value="Transition"/>
+                <element label="Transformation" sequence="1" value="Transformation"/>
+                <element label="Both" sequence="2" value="Both"/>
+            </choice>
+        </element>
+    </element>
+</database>
